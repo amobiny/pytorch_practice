@@ -105,4 +105,6 @@ venv.bak/
 data/
 *.ckpt
 .idea
+logs/
+model_out/
 
